@@ -1,0 +1,6 @@
+anjali=bhopal
+subhkirti=panjab
+harman=panjab
+ritika=panjab
+navjot=panjab
+i am anjali
